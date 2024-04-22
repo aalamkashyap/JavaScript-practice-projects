@@ -10,3 +10,6 @@ These are done as part of course on Udemy - The Complete JavaScript Course 2024:
  
 - Dice roll Game
    - Two players play this game and the one who reaches totalScore of atleast 100 first, wins the game
+
+- Advanced DOM and Events
+   - Implementing Advanced DOM functionalities and handling events using Event Delegation
