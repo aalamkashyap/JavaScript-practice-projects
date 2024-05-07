@@ -1,5 +1,4 @@
-# JavaScript-practice-projects
-This folder contains project named "Bankist"
+# BANKIST PROJECT
 
 In this project following features are implemented as part of learning Advanced DOM and Event Handling:
 - Implementing Smooth Scrolling
