@@ -1,5 +1,5 @@
 # JavaScript-practice-projects
-This folder contains project named "Bankist" done as a practice for Udemy Course - The Complete JavaScript
+This folder contains project named "Bankist"
 
 In this project following features are implemented as part of learning Advanced DOM and Event Handling:
 - Implementing Smooth Scrolling
